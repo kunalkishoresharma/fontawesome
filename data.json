@@ -1,0 +1,2825 @@
+{
+    "data": {
+        "allIcons": {
+            "__typename": "IconList",
+            "iconCount": 1539,
+            "icons": [
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "facebook",
+                    "label": "Facebook",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f09a"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "user",
+                    "label": "User",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f464"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "check",
+                    "label": "Check",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2713"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "phone",
+                    "label": "Phone",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f4de"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "add"
+                        ]
+                    },
+                    "id": "plus",
+                    "label": "plus",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "twitter",
+                    "label": "Twitter",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f099"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "info",
+                    "label": "Info",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f129"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "list-squares"
+                        ]
+                    },
+                    "id": "list",
+                    "label": "List",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f03a"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "star",
+                    "label": "Star",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2b50"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "cart-plus",
+                    "label": "Add to Shopping Cart",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f217"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "book",
+                    "label": "book",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f4d4"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "heart",
+                    "label": "Heart",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2665"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "calendar",
+                    "label": "Calendar",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f4c5"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "youtube",
+                    "label": "YouTube",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f167"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "linkedin",
+                    "label": "LinkedIn",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f08c"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "trash",
+                    "label": "Trash",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f1f8"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "play",
+                    "label": "play",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "25b6"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "circle",
+                    "label": "Circle",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "25cf"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "download",
+                    "label": "Download",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f019"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "male"
+                        ]
+                    },
+                    "id": "person",
+                    "label": "Person",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f9cd"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "cross",
+                    "label": "Cross",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "271d"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "comment-alt"
+                        ]
+                    },
+                    "id": "message",
+                    "label": "Message",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f27a"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "lock",
+                    "label": "lock",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f512"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "google",
+                    "label": "Google Logo",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f1a0"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "hand-paper"
+                        ]
+                    },
+                    "id": "hand",
+                    "label": "Paper (Hand)",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "270b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "question",
+                    "label": "Question",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "3f"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "store-alt"
+                        ]
+                    },
+                    "id": "shop",
+                    "label": "Shop",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f54f"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "github",
+                    "label": "GitHub",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f09b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "paper-plane",
+                    "label": "Paper Plane",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f1d8"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "street-view",
+                    "label": "Street View",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f21d"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "arrow-turn-right",
+                            "mail-forward"
+                        ]
+                    },
+                    "id": "share",
+                    "label": "Share",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f064"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "video-camera"
+                        ]
+                    },
+                    "id": "video",
+                    "label": "Video",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f03d"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "navicon"
+                        ]
+                    },
+                    "id": "bars",
+                    "label": "Bars",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f0c9"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "code",
+                    "label": "Code",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f121"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "bell",
+                    "label": "bell",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f514"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "home"
+                        ]
+                    },
+                    "id": "house",
+                    "label": "House",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f3e0"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "comment",
+                    "label": "comment",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f5e9"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "key",
+                    "label": "key",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f511"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "subtract"
+                        ]
+                    },
+                    "id": "minus",
+                    "label": "minus",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2013"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "upload",
+                    "label": "Upload",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f093"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "openid",
+                    "label": "OpenID",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f19b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "image",
+                    "label": "Image",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f03e"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "folder",
+                    "label": "Folder",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f4c1"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "camera-alt"
+                        ]
+                    },
+                    "id": "camera",
+                    "label": "camera",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f030"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "globe",
+                    "label": "Globe",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f310"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "square",
+                    "label": "Square",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "25a0"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "file-excel",
+                    "label": "Excel File",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f1c3"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "html5",
+                    "label": "HTML 5 Logo",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f13b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "network-wired",
+                    "label": "Wired Network",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f6ff"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "pagelines",
+                    "label": "Pagelines",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f18c"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "pencil-alt"
+                        ]
+                    },
+                    "id": "pencil",
+                    "label": "pencil",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "270f"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "cog"
+                        ]
+                    },
+                    "id": "gear",
+                    "label": "Gear",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2699"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "internet-explorer",
+                    "label": "Internet-explorer",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f26b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "teamspeak",
+                    "label": "TeamSpeak",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f4f9"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "quote-right-alt"
+                        ]
+                    },
+                    "id": "quote-right",
+                    "label": "quote-right",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "201d"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "unsorted"
+                        ]
+                    },
+                    "id": "sort",
+                    "label": "Sort",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f0dc"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "building",
+                    "label": "Building",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f3e2"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "caret-down",
+                    "label": "Caret Down",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f0d7"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "print",
+                    "label": "print",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2399"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "truck",
+                    "label": "truck",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "26df"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "registered",
+                    "label": "Registered Trademark",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "ae"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "video-slash",
+                    "label": "Video Slash",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f4e2"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "arrow-right-from-file"
+                        ]
+                    },
+                    "id": "file-export",
+                    "label": "File Export",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f56e"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "file-invoice",
+                    "label": "File Invoice",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f570"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "teletype"
+                        ]
+                    },
+                    "id": "tty",
+                    "label": "TTY",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f1e4"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "restroom",
+                    "label": "Restroom",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f7bd"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "flag",
+                    "label": "flag",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid",
+                            "regular"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f3f4"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "signature",
+                    "label": "Signature",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f5b7"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "stop",
+                    "label": "stop",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "23f9"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "arrow-right",
+                    "label": "arrow right",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2192"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "power-off",
+                    "label": "Power Off",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "23fb"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "music",
+                    "label": "Music",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f3b5"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "connectdevelop",
+                    "label": "Connect Develop",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f20e"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "telegram-plane"
+                        ]
+                    },
+                    "id": "telegram",
+                    "label": "Telegram",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f2c6"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "vials",
+                    "label": "Vials",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f493"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "heart-music-camera-bolt"
+                        ]
+                    },
+                    "id": "icons",
+                    "label": "Icons",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f86d"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "table",
+                    "label": "table",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f0ce"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "arrow-down",
+                    "label": "Arrow down",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2193"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "door-open",
+                    "label": "Door Open",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f52b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "calendar-week",
+                    "label": "Calendar with Week Focus",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f784"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "store",
+                    "label": "Store",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f54e"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "cloud",
+                    "label": "Cloud",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2601"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "star-of-life",
+                    "label": "Star of Life",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f621"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "mug-hot",
+                    "label": "Mug Hot",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "2615"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "free-code-camp",
+                    "label": "freeCodeCamp",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f2c5"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "wifi-3",
+                            "wifi-strong"
+                        ]
+                    },
+                    "id": "wifi",
+                    "label": "WiFi",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f1eb"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "school",
+                    "label": "School",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f3eb"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "arrow-right-to-file"
+                        ]
+                    },
+                    "id": "file-import",
+                    "label": "File Import",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f56f"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "shower",
+                    "label": "Shower",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "1f6bf"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "dropbox",
+                    "label": "Dropbox",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f16b"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "institution",
+                            "university"
+                        ]
+                    },
+                    "id": "bank",
+                    "label": "Bank",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f19c"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "google-play",
+                    "label": "Google Play",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f3ab"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "place-of-worship",
+                    "label": "Place of Worship",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f67f"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": null
+                    },
+                    "id": "money-bill",
+                    "label": "Money Bill",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f0d6"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "volume-control-phone"
+                        ]
+                    },
+                    "id": "phone-volume",
+                    "label": "Phone Volume",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "solid"
+                        ],
+                        "pro": [
+                            "solid",
+                            "regular",
+                            "light",
+                            "duotone",
+                            "thin"
+                        ]
+                    },
+                    "styles": [
+                        "solid",
+                        "regular",
+                        "light",
+                        "duotone",
+                        "thin"
+                    ],
+                    "unicode": "f2a0"
+                },
+                {
+                    "__typename": "Icon",
+                    "aliases": {
+                        "__typename": "Aliases",
+                        "names": [
+                            "medium-m"
+                        ]
+                    },
+                    "id": "medium",
+                    "label": "Medium",
+                    "membership": {
+                        "__typename": "Membership",
+                        "free": [
+                            "brands"
+                        ],
+                        "pro": [
+                            "brands"
+                        ]
+                    },
+                    "styles": [
+                        "brands"
+                    ],
+                    "unicode": "f23a"
+                }
+            ],
+            "pages": 17
+        }
+    }
+}
